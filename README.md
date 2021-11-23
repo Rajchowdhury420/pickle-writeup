@@ -1,3 +1,7 @@
+## The Vulnerability of this challenge is : Python Pickle Insecure Deserialization 
+
+
+
 ### Project Structure
 
 ```
@@ -5,13 +9,14 @@
 ├── client.py
 ├── exploit.py
 ├── README.md
+├── users.json
 ├── safeCode
 │   ├── client.py
 │   ├── server.py
 │   └── users.json
 └── server.py
 
-1 directory, 7 files
+1 directory, 8 files
 ```
 
 content on the root 
